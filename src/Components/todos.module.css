@@ -1,0 +1,10 @@
+.todos{
+
+    width: 50%;
+    background-color: #32527b;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+   
+    height: 60vh;
+}
